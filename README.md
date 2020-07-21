@@ -1,24 +1,19 @@
-# accessibility_research
+# A/V Accessibility Research Project
+Research Project about making audio and visual media accessible for everyone
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Design / Development Roadmap
+Google Drive Link: https://docs.google.com/document/d/1ukCwrLko4nwg3gjahhMBEvN2RIMKZkGR3HdfDwOlZ4E/edit?usp=sharing
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Research Links
+* https://developer.mozilla.org/en-US/docs/Learn/Accessibility/Multimedia
+* https://www.w3.org/WAI/media/av/
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Tools
+* HTML5
+* CSS3
+* SASS
+* Vue.js
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Acknowledgments and Credits 
+* All entertainment assets used in this project whether it be audio, images, or video were taken from other sources. We do not own them. Just used for project purposes
